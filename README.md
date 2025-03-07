@@ -1,7 +1,7 @@
 # AI-Vtuber-Youtube
 
 for short:
-1. Pip install all the requirements, VBCable(this one important)
+1. Pip install all the requirements, VBCable (this one important)
 2. Fill the setups in config.json
 3. Run the main.py
 4. Do audio, OBS and Vtuber Studio setups, I recommend you watch how this big brother setup (https://www.youtube.com/watch?v=EXICATDyYWI&t=1097s)
