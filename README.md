@@ -5,7 +5,7 @@ for short:
 2. Fill the setups in config.json
 3. Run the main.py
 4. Do audio, OBS and Vtuber Studio setups, I recommend you watch how this big brother setup (https://www.youtube.com/watch?v=EXICATDyYWI&t=1097s)
-5. Go to youtube stuio, live, and get the id from the link to fill in config.json
+5. Go to youtube studio, live, and get the id from the link to fill in config.json
 6. Enjoy your own companion
 
 # Acknowledgement
