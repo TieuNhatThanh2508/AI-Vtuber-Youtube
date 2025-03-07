@@ -8,7 +8,7 @@ for short:
 5. Go to youtube stuio, live, and get the id from the link to fill in config.json
 6. Enjoy your own companion
 
-#Acknowledgement
+# Acknowledgement
 Although my method is a bit different. This small project's inspiration are all from brother Adi Panda's video (link above). Thanks big bro.
 
 P.S: I will write a better version on how to operate this low-cost project later, after I done my exams 
