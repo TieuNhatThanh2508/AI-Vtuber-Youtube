@@ -1,0 +1,38 @@
+{
+    "api_settings": {
+        "deepseek_api_key": "your_deepseek_key",
+        "model": "deepseek-chat",
+        "api_timeout": 30,
+        "temperature": 0.9,
+        "max_response_length": 200
+    },
+
+    "voice_settings": {
+        "voice_id": "bf_lily",
+        "language_code": "b",
+        "speed": 1.0
+    },
+
+    "youtube_settings": {
+        "video_id": "your live id (https://www.youtube.com/live/this_is_your_id)"
+    },
+
+    "character": {
+        "name": "Corelia",
+        "personality": "Quick brief of personalities",
+        "system_prompt": "Character's descriptions",
+        
+        "personality_traits": {
+            "Personalities": "detail descriptions",
+            "Personalities_2": ""
+        },
+
+        "response_handling": {
+            "different situations": {
+                "description": "how you want the AI response",
+                "example": "Give he/she a reference."
+            },
+            "different situation_2": {}
+        }
+    }
+}

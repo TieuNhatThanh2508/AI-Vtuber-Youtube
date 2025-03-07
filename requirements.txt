@@ -1,0 +1,12 @@
+httpx
+sounddevice
+re
+asyncio
+threading
+multiprocessing
+pytchat
+openai
+kokoro
+tkinter
+datetime
+json
