@@ -1,5 +1,6 @@
 # AI-Vtuber-Youtube (DeepSeek)
-
+![alt text](https://github.com/TieuNhatThanh2508/AI-Vtuber-Youtube/blob/main/corelia.jpg)
+<br>
 for short:
 1. Pip install all the requirements, VBCable (this one important)
 2. Fill the setups in config.json
